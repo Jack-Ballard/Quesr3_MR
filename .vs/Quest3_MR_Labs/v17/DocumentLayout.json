@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|c:\\users\\jack\\documents\\unity projects\\quest3_mr_labs\\assets\\pindetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|solutionrelative:assets\\pindetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|c:\\users\\jack\\documents\\unity projects\\quest3_mr_labs\\assets\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|solutionrelative:assets\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\assets\\anchortutorialuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|solutionrelative:assets\\anchortutorialuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\assets\\glowshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{481C2D85-733B-DB29-2FDD-F40EC05731AE}|Assembly-CSharp.csproj|solutionrelative:assets\\glowshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinDetection.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\PinDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\PinDetection.cs",
+              "ToolTip": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\PinDetection.cs",
+              "RelativeToolTip": "Assets\\PinDetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:09:28.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\ObjectSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:51:14.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnchorTutorialUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\AnchorTutorialUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AnchorTutorialUIManager.cs",
+              "ToolTip": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\AnchorTutorialUIManager.cs",
+              "RelativeToolTip": "Assets\\AnchorTutorialUIManager.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:42:09.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlowShader.shader",
+              "DocumentMoniker": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\GlowShader.shader",
+              "RelativeDocumentMoniker": "Assets\\GlowShader.shader",
+              "ToolTip": "C:\\Users\\Jack\\Documents\\Unity Projects\\Quest3_MR_Labs\\Assets\\GlowShader.shader",
+              "RelativeToolTip": "Assets\\GlowShader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-18T14:04:53.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
