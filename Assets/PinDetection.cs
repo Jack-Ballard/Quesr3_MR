@@ -1,26 +1,43 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
+using Unity.VisualScripting;
 
 public class PinDetection : MonoBehaviour
 {
     public GameObject Pin;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    private bool isHit = false;
 
-    // Update is called once per frame
-    void Update()
+    private void OnCollisionEnter(Collision collision)
     {
-
+        if (collision.gameObject == Pin) 
+        {
+            isHit = false;
+        }
     }
 
     private void OnCollisionExit(Collision collision)
     {
+        if (collision.gameObject == Pin)
+        {
+            isHit = true;
+        }
+    }
+
+    public void ResetPins()
+    {
+        Destroy(Pin);
         Instantiate(Pin, transform.position, transform.rotation);
     }
 
+    public bool Score()
+    {
+        if (isHit)
+        {
+            Destroy(Pin); 
+            return true; 
+        }
+
+        return false; // No score
+    }
 }

@@ -142,6 +142,8 @@ PlayerSettings:
   bundleVersion: 0.1.0
   preloadedAssets:
   - {fileID: 11400000, guid: c2661337465ae6f479656657e449f085, type: 2}
+  - {fileID: 9049899458647633730, guid: 11f023a7ecc04a04fad02cbaa017e933, type: 2}
+  - {fileID: 11400000, guid: 12fdff0dd7836af4e8d748835743c0fc, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -849,8 +851,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Quest3_MR_Labs
-  metroPackageVersion: 
+  metroPackageName: Quest3MRLabs
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -858,7 +860,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Quest3_MR_Labs
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Quest3_MR_Labs
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
